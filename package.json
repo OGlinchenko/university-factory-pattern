@@ -1,0 +1,11 @@
+{
+  "name": "university-factory-pattern",
+  "version": "1.0.0",
+  "description": "A Factory Pattern implementation for a university context",
+  "main": "src/universityFactory.js",
+  "scripts": {
+    "start": "node src/universityFactory.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
